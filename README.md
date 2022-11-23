@@ -46,7 +46,7 @@ I’m familiar with a variety of programming languages, including Javascript, C+
 
 </td><td valign="top" width="50%">
 
-
+  <img src="https://ibb.co/xgtX3k6" alt="Image not available" style="width: 300px; height: 100px;" />
 
 </td></tr></table>  
 
