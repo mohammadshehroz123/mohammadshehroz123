@@ -30,7 +30,7 @@ I’m familiar with a variety of programming languages, including Javascript, C+
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="1000%">
 
 - 🔭 I’m currently working on Enterprise Ecommerce Application  
   
@@ -43,10 +43,6 @@ I’m familiar with a variety of programming languages, including Javascript, C+
 
 - ⚡ Fun fact: I spend most of my time gaming and coding  
 
-
-</td><td valign="top" width="50%">
-
-  <img src="https://freeimage.host/i/HdmIGtt" alt="Image not available" style="width: 300px; height: 100px;" />
 
 </td></tr></table>  
 
