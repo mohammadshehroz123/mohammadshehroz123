@@ -32,13 +32,10 @@ I’m familiar with a variety of programming languages, including Javascript, C+
 ## Rapidfire  
 <table><tr><td valign="top" width="1000%">
 
-- 🔭 I’m currently working on an Enterprise Application  
-  
+- 🔭 I’m currently working as an SSE with extensive experience in Distributed Systems  
 
-- 🌱 I’m currently learning Blockchain  
-  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to backend technologies (Programming languages, System Design, Architectures, Databases, ORMs, Containerization, Deployments)  
   
 
 - ⚡ Fun fact: I spend most of my time gaming and coding  
